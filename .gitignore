@@ -21,6 +21,13 @@ tutor_memory/
 tutor_settings.json
 .autopilot/
 
+# Secrets / keys (never commit)
+*.pem
+id_rsa*
+id_ed25519*
+*.key
+.env
+
 # OS / editor
 .DS_Store
 Thumbs.db
