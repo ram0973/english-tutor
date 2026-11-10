@@ -313,6 +313,7 @@ ui_preview.png            скриншот интерфейса
 avatar_john.png           портрет учителя (можно заменить своим)
 avatar_jane.png           портрет учительницы (можно заменить своим)
 make_avatars.py           скрипт, которым нарисованы аватары
+make_preview.py           пересъёмка ui_preview.png (демо-диалог без микрофона)
 piper_voices/             голоса Piper (по ~120 МБ на голос)
 tutor_memory/
   vocabulary.json         словарь новых слов
