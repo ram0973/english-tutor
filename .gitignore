@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+build/
+dist/
+
+# Logs
+*.log
+tutor_debug.log
+
+# TTS voice models (large binaries, download separately)
+piper_voices/
+
+# Local runtime data / user state
+tutor_memory/
+tutor_settings.json
+.autopilot/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
